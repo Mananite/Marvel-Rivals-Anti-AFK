@@ -11,5 +11,5 @@ Only works for Venom and Magneto, more to come
 
 I'll fix the code in due time, rn it works so that's good enough for me
 
-Release will flag your antivirus, no, it's not a virus, read through the source, python absolutely hates being compiled, used [Pyinstaller](https://pypi.org/project/pyinstaller/)
+Release will flag your antivirus, no, it's not a virus, read through the source, python absolutely hates being compiled, used [Nuitka](https://nuitka.net/)
 
