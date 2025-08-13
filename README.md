@@ -1,4 +1,4 @@
-Fakes a controller to do stuff to avoid an afk kick
+Fakes a controller to do stuff to avoid an afk kick, game window MUST be focused
 
 If you want to do an emote every once in a while just put it on the lowest point of the selection wheel
 
@@ -11,5 +11,5 @@ Only works for Venom and Magneto, more to come
 
 I'll fix the code in due time, rn it works so that's good enough for me
 
-Release will flag your antivirus, no, it's not a virus, read through the source, python absolutely hates being compiled, used [Nuitka](https://nuitka.net/)
+Release will flag your antivirus (probably), no, it's not a virus, read through the source, python absolutely hates being compiled, used [Nuitka](https://nuitka.net/)
 
